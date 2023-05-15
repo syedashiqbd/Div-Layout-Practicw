@@ -1,0 +1,27 @@
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.menu {
+  display: flex;
+  padding: 0;
+  margin: 30px 0;
+}
+.menu li {
+  list-style: none;
+}
+.menu li a {
+  margin-right: 20px;
+  padding: 10px;
+  background-color: goldenrod;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  border-radius: 5px;
+}
+.column {
+  display: flex;
+}
+.column p {
+  color: blueviolet;
+}
